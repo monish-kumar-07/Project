@@ -1,0 +1,32 @@
+.notifications-container {
+    padding: 20px;
+    background-color: #fff3cd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .notifications-container h2 {
+    margin-bottom: 10px;
+  }
+  
+  .notifications-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .notification-item {
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 3px;
+  }
+  
+  .notification-item.order-update {
+    background-color: #d1ecf1;
+    color: #0c5460;
+  }
+  
+  .notification-item.reservation-confirmation {
+    background-color: #c3e6cb;
+    color: #155724;
+  }
+  
